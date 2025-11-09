@@ -31,6 +31,7 @@ What's included
 - A GitHub Actions CI workflow that validates the environment and installs dependencies on pushes/PRs.
 
 Folder structure
+```
 SOLAR-CHALLENGE-WEEK0/
 │
 ├── .github/
@@ -70,6 +71,7 @@ SOLAR-CHALLENGE-WEEK0/
 ├── LICENSE
 ├── README.md
 └── requirements.txt                # Project dependencies
+```
 
 Environment setup (Task 1 — Git & Environment Setup)
 To ensure reproducible environments, a dedicated Conda environment was used and all dependencies are pinned in requirements.txt.
