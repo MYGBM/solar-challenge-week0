@@ -31,45 +31,8 @@ What's included
 - A GitHub Actions CI workflow that validates the environment and installs dependencies on pushes/PRs.
 
 Folder structure
-SOLAR-CHALLENGE-WEEK0/
-│
-├── .github/
-│   └── workflows/
-│       └── ci.yaml                 # CI/CD pipeline configuration
-│
-├── .vscode/                        # VS Code workspace settings (gitignored)
-│
-├── data/
-│   ├── benin/
-│   │   ├── raw/                    # Unprocessed Benin data
-│   │   └── processed/              # Cleaned/processed Benin data
-│   ├── sierraleone/
-│   │   ├── raw/
-│   │   └── processed/
-│   └── togo/
-│       ├── raw/
-│       └── processed/
-│
-├── notebooks/
-│   ├── benin_eda.ipynb             # EDA notebook for Benin
-│   ├── sierraleone.ipynb           # EDA notebook for Sierra Leone
-│   ├── togo.ipynb                  # EDA notebook for Togo
-│   ├── __init__.py
-│   └── README.md
-│
-├── scripts/
-│   ├── __init__.py
-│   └── README.md
-│
-├── src/
-│   ├── __init__.py                 # Core source files and utilities
-│
-├── tests/                          # Unit tests
-│
-├── .gitignore                      # Excludes data and VS Code folders
-├── LICENSE
-├── README.md
-└── requirements.txt                # Project dependencies
+<img width="993" height="1066" alt="image" src="https://github.com/user-attachments/assets/90f9cb9f-6da6-4af8-b89a-e237778d2f91" />
+
 
 Environment setup (Task 1 — Git & Environment Setup)
 To ensure reproducible environments, a dedicated Conda environment was used and all dependencies are pinned in requirements.txt.
@@ -111,7 +74,7 @@ A CI pipeline is configured at .github/workflows/ci.yaml to:
 
 Contributing
 - Please open issues for bugs or feature requests.
-- Create a new branch for changes: git checkout -b feat/your-feature
+- Create a new branch for changes: git checkout -b fe--at/your-feature
 - Keep commits small and descriptive. Follow the existing commit history style.
 - Open a Pull Request describing your changes and link related issues.
 
