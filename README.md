@@ -31,7 +31,8 @@ What's included
 - A GitHub Actions CI workflow that validates the environment and installs dependencies on pushes/PRs.
 
 Folder structure
-<img width="993" height="1066" alt="image" src="https://github.com/user-attachments/assets/90f9cb9f-6da6-4af8-b89a-e237778d2f91" />
+<img width="510" height="1353" alt="image" src="https://github.com/user-attachments/assets/4e11c08b-307b-4d98-8de0-e7dfb9e2e08e" />
+
 
 
 Environment setup (Task 1 — Git & Environment Setup)
